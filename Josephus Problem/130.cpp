@@ -1,4 +1,4 @@
-//2K18//Q1GD-1//
+//2K18//Q1//
 //130 - Roman Roulette
 #include<bits/stdc++.h>
 using namespace std;
