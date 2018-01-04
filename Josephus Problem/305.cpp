@@ -1,4 +1,4 @@
-//2K18//Q1GD-1//
+//2K18//Q1//
 //305 - Joseph
 #include<bits/stdc++.h>
 using namespace std;
