@@ -1,4 +1,4 @@
-//2k18//Q1GD-1//
+//2k18//Q1//
 //10771 - Barbarian tribes
 #include<bits/stdc++.h>
 using namespace std;
