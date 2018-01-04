@@ -1,2 +1,2 @@
 # UVa
-Solved problem by me from UVa Online Judge. 
+Solved problems by me from UVa Online Judge. 
